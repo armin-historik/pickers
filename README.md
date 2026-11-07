@@ -1,1 +1,1 @@
-# pickes
+# pickers
